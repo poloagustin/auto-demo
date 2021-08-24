@@ -1,0 +1,9 @@
+{
+  "name": "auto-demo",
+  "version": "0.0.0",
+  "description": "Demo of https://intuit.github.io/auto/index",
+  "repository": "git@github.com:poloagustin/auto-demo.git",
+  "author": "apolo <agustin.polo@cloudx.com>",
+  "license": "MIT",
+  "private": true
+}
