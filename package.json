@@ -9,8 +9,13 @@
   "devDependencies": {
     "@auto-it/conventional-commits": "^10.31.0",
     "@auto-it/git-tag": "^10.31.0",
-    "auto": "^10.31.0"
+    "auto": "^10.31.0",
+    "lerna": "^4.0.0"
   },
+  "workspaces": [
+    "packages/*",
+    ".github/actions/*"
+  ],
   "scripts": {
     "release": "auto shipit"
   }
