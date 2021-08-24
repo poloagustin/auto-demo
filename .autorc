@@ -1,0 +1,7 @@
+{
+  plugins: ["git-tag", "conventional-commits"],
+  owner: "poloagustin",
+  repo: "auto-demo",
+  name: "apolo",
+  email: "poloagustin@gmail.com",
+}
