@@ -5,5 +5,13 @@
   "repository": "git@github.com:poloagustin/auto-demo.git",
   "author": "apolo <agustin.polo@cloudx.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "@auto-it/conventional-commits": "^10.31.0",
+    "@auto-it/git-tag": "^10.31.0",
+    "auto": "^10.31.0"
+  },
+  "scripts": {
+    "release": "auto shipit"
+  }
 }

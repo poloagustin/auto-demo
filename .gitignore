@@ -36,3 +36,5 @@ tmp
 
 # Local Netlify folder
 .netlify
+
+.env
