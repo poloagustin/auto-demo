@@ -1,3 +1,15 @@
+# v0.1.1 (Tue Aug 24 2021)
+
+#### 🐛 Bug Fix
+
+- fix(lerna): add lerna [#2](https://github.com/poloagustin/auto-demo/pull/2) ([@poloagustin](https://github.com/poloagustin))
+
+#### Authors: 1
+
+- Agustin Polo ([@poloagustin](https://github.com/poloagustin))
+
+---
+
 # v0.1.0 (Tue Aug 24 2021)
 
 #### 🚀 Enhancement
