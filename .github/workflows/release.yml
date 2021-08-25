@@ -25,6 +25,7 @@ jobs:
         run: yarn run release
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NPM_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   deploy-test:
     name: Deploy Packages to Test
     runs-on: ubuntu-latest
