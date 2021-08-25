@@ -1,5 +1,5 @@
 {
-  plugins: ["git-tag", "conventional-commits"],
+  plugins: ["npm", "conventional-commits"],
   owner: "poloagustin",
   repo: "auto-demo",
   name: "apolo",
