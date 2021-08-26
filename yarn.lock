@@ -76,6 +76,18 @@
     semver "^7.0.0"
     tslib "2.1.0"
 
+"@auto-it/jira@^10.31.0":
+  version "10.31.0"
+  resolved "https://registry.yarnpkg.com/@auto-it/jira/-/jira-10.31.0.tgz#de6ee51bbbd6dd1eb8a08b1dd151436d02c822aa"
+  integrity sha512-Bv/6fpICBjPUFEW45DSgpEjO1QdHqKm+QV3cwSdt4rm5kbidRERSFtuqUuT533FZP/7W0O0+uX8Epp354NObWQ==
+  dependencies:
+    "@auto-it/core" "10.31.0"
+    enquirer "^2.3.4"
+    fp-ts "^2.5.3"
+    io-ts "^2.1.2"
+    tslib "2.1.0"
+    url-join "^4.0.0"
+
 "@auto-it/npm@10.31.0", "@auto-it/npm@^10.31.0":
   version "10.31.0"
   resolved "https://registry.yarnpkg.com/@auto-it/npm/-/npm-10.31.0.tgz#220aa1d28b61a4b82620f4b1513fad2b1a75d49d"
