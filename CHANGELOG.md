@@ -1,3 +1,17 @@
+# (Thu Aug 26 2021)
+
+#### 🐛 Bug Fix
+
+- fix: something [#8](https://github.com/poloagustin/auto-demo/pull/8) ([@poloagustin](https://github.com/poloagustin))
+- fix: test something [#7](https://github.com/poloagustin/auto-demo/pull/7) ([@poloagustin](https://github.com/poloagustin))
+- fix: testing fixes [#6](https://github.com/poloagustin/auto-demo/pull/6) ([@poloagustin](https://github.com/poloagustin))
+
+#### Authors: 1
+
+- Agustin Polo ([@poloagustin](https://github.com/poloagustin))
+
+---
+
 # v0.3.1 (Thu Aug 26 2021)
 
 #### 🐛 Bug Fix
