@@ -1,3 +1,15 @@
+# v0.2.0 (Thu Aug 26 2021)
+
+#### 🚀 Enhancement
+
+- feat(npm): add npm [#4](https://github.com/poloagustin/auto-demo/pull/4) ([@poloagustin](https://github.com/poloagustin))
+
+#### Authors: 1
+
+- Agustin Polo ([@poloagustin](https://github.com/poloagustin))
+
+---
+
 # v0.1.2 (Tue Aug 24 2021)
 
 #### 🐛 Bug Fix
