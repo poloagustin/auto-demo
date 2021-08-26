@@ -1,3 +1,24 @@
+# v0.4.0 (Thu Aug 26 2021)
+
+#### 🚀 Enhancement
+
+- feat: [FUX-286](https://symend.atlassian.net/FUX-286): change versions [#12](https://github.com/poloagustin/auto-demo/pull/12) ([@poloagustin](https://github.com/poloagustin))
+- feat: [FUX-286](https://symend.atlassian.net/FUX-286): test jira [#11](https://github.com/poloagustin/auto-demo/pull/11) ([@poloagustin](https://github.com/poloagustin))
+- feat: [FUX-286](https://symend.atlassian.net/FUX-286): testing stuff [#10](https://github.com/poloagustin/auto-demo/pull/10) ([@poloagustin](https://github.com/poloagustin))
+
+#### 🐛 Bug Fix
+
+- fix: both [#9](https://github.com/poloagustin/auto-demo/pull/9) ([@poloagustin](https://github.com/poloagustin))
+- fix: something [#8](https://github.com/poloagustin/auto-demo/pull/8) ([@poloagustin](https://github.com/poloagustin))
+- fix: test something [#7](https://github.com/poloagustin/auto-demo/pull/7) ([@poloagustin](https://github.com/poloagustin))
+- fix: testing fixes [#6](https://github.com/poloagustin/auto-demo/pull/6) ([@poloagustin](https://github.com/poloagustin))
+
+#### Authors: 1
+
+- Agustin Polo ([@poloagustin](https://github.com/poloagustin))
+
+---
+
 # (Thu Aug 26 2021)
 
 #### 🚀 Enhancement
