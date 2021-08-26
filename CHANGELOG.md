@@ -1,3 +1,15 @@
+# v0.3.0 (Thu Aug 26 2021)
+
+#### 🚀 Enhancement
+
+- feat: add changes in both packages [#5](https://github.com/poloagustin/auto-demo/pull/5) ([@poloagustin](https://github.com/poloagustin))
+
+#### Authors: 1
+
+- Agustin Polo ([@poloagustin](https://github.com/poloagustin))
+
+---
+
 # v0.2.0 (Thu Aug 26 2021)
 
 #### 🚀 Enhancement
