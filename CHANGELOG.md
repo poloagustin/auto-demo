@@ -1,3 +1,16 @@
+# (Thu Aug 26 2021)
+
+#### 🚀 Enhancement
+
+- feat: [FUX-286](https://symend.atlassian.net/FUX-286): test jira [#11](https://github.com/poloagustin/auto-demo/pull/11) ([@poloagustin](https://github.com/poloagustin))
+- feat: [FUX-286](https://symend.atlassian.net/FUX-286): testing stuff [#10](https://github.com/poloagustin/auto-demo/pull/10) ([@poloagustin](https://github.com/poloagustin))
+
+#### Authors: 1
+
+- Agustin Polo ([@poloagustin](https://github.com/poloagustin))
+
+---
+
 # v0.4.0 (Thu Aug 26 2021)
 
 #### 🚀 Enhancement
