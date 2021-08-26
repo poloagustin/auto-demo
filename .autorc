@@ -1,6 +1,13 @@
 {
   plugins: [
-    ["npm", { "forcePublish": false }], 
+    [
+      "npm", 
+      { 
+        "forcePublish": false,
+        "subPackageChangelogs": true,
+        "monorepoChangelog": true
+      }
+    ], 
     "conventional-commits"
   ],
   owner: "poloagustin",
