@@ -1,8 +1,9 @@
 {
   "packages": [
-    "packages/*"
+    "packages/*",
+    ".github/actions/*"
   ],
-  "version": "0.3.0",
+  "version": "independent",
   "npmClient": "yarn",
   "useWorkspaces": true,
   "ignoreChanges": [
