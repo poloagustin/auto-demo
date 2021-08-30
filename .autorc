@@ -2,7 +2,7 @@
   plugins: [
     "git-tag", 
     "conventional-commits",
-    ["jira", { "url": "https://symend.atlassian.net" }]
+    ["jira", { "url": "https://symend.atlassian.net/browse" }]
   ],
   owner: "poloagustin",
   repo: "auto-demo",

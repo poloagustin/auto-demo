@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.ADMIN_TOKEN }}
       - name: Install deps and build (with cache)
         uses: bahmutov/npm-install@v1
         env:
@@ -24,8 +24,7 @@ jobs:
       - name: Release
         run: yarn run release
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NPM_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.ADMIN_TOKEN }}
   deploy-test:
     name: Deploy Packages to Test
     runs-on: ubuntu-latest
