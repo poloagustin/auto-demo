@@ -1,3 +1,15 @@
+# v0.5.0 (Mon Aug 30 2021)
+
+#### 🚀 Enhancement
+
+- feat: [FUX-123](https://symend.atlassian.net/browse/FUX-123): testing things [#13](https://github.com/poloagustin/auto-demo/pull/13) ([@poloagustin](https://github.com/poloagustin))
+
+#### Authors: 1
+
+- Agustin Polo ([@poloagustin](https://github.com/poloagustin))
+
+---
+
 # v0.4.0 (Thu Aug 26 2021)
 
 #### 🚀 Enhancement
